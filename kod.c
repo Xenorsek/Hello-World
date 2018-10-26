@@ -22,15 +22,15 @@ int main()
     cout << "Twoja odpowiedz to: ";
     cin >> pyt1kk;
  
-    switch(pyt1kk==1)
+    switch(pyt1kk=1)
     {
         case 1:
             pktkk=pktkk+1;
             lpodpkk=lpodpkk+1;
             lnodpkk=0;
         break;
- 
-        default;
+
+     default:
             pktkk=pktkk+0;
             lpodpkk=lpodpkk+0;
             lnodpkk=lnodpkk+1;
