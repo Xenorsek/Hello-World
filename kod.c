@@ -30,7 +30,7 @@ int main()
             lnodpkk=0;
         break;
  
-        default;
+     default:
             pktkk=pktkk+0;
             lpodpkk=lpodpkk+0;
             lnodpkk=lnodpkk+1;
