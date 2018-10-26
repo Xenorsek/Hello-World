@@ -8,7 +8,7 @@ if(liczba_do_zadania=5){
 }
 else if(liczba_do_zadania==7)
 {
-	cout<<"liczba to "<<endl;
+	cout<<"liczba to 7"<<endl;
 }
 else
 {
