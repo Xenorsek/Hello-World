@@ -14,5 +14,11 @@ else
 {
 	cout<<"liczba to cos innego niz 5 i 7 "<<endl;
 }
+	for(int i=0;i<5;i++){
+		for(int j=0;j=<i;j++){
+			cout << "*";
+		}
+		cout << endl;
+	}
 return 0;
 }
