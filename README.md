@@ -1,5 +1,5 @@
 # Hello-World
-```cppcx
+```csharp
 '''kalkulator
 #include<stdio.h>
 #include <math.h>
