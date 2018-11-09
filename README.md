@@ -1,4 +1,6 @@
 # Hello-World
+Dołącz do pracy wspólnej i zaliczmy programy użytkowe na 5!
+Nasze programy:
 ```csharp
 '''kalkulator
 #include<stdio.h>
