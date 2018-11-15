@@ -3,7 +3,7 @@ using namespace std;
 int main()
 {
 int liczba_do_zadania = 7;
-if(liczba_do_zadania=5){
+if(liczba_do_zadania==5){
 	cout<<"Liczba wynosi 5"<<endl;
 }
 else if(liczba_do_zadania==7)
