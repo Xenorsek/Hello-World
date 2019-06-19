@@ -22,7 +22,7 @@ int main()
     cout << "Twoja odpowiedz to: ";
     cin >> pyt1kk;
  
-    switch(pyt1kk=1)
+    switch(pyt1kk==1)
     {
         case 1:
             pktkk=pktkk+1;
